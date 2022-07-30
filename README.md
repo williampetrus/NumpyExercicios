@@ -1,0 +1,2 @@
+# NumpyExercicios
+Treinos de Numpy
